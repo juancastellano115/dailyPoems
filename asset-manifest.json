@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/dailypoems/static/css/main.9d335ca6.chunk.css",
+    "main.js": "/dailypoems/static/js/main.1e2296e3.chunk.js",
+    "main.js.map": "/dailypoems/static/js/main.1e2296e3.chunk.js.map",
+    "runtime-main.js": "/dailypoems/static/js/runtime-main.68d316cd.js",
+    "runtime-main.js.map": "/dailypoems/static/js/runtime-main.68d316cd.js.map",
+    "static/js/2.860d775a.chunk.js": "/dailypoems/static/js/2.860d775a.chunk.js",
+    "static/js/2.860d775a.chunk.js.map": "/dailypoems/static/js/2.860d775a.chunk.js.map",
+    "index.html": "/dailypoems/index.html",
+    "precache-manifest.5776e5524f3cf81651e88e33d2d1cbee.js": "/dailypoems/precache-manifest.5776e5524f3cf81651e88e33d2d1cbee.js",
+    "service-worker.js": "/dailypoems/service-worker.js",
+    "static/css/main.9d335ca6.chunk.css.map": "/dailypoems/static/css/main.9d335ca6.chunk.css.map",
+    "static/js/2.860d775a.chunk.js.LICENSE.txt": "/dailypoems/static/js/2.860d775a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.68d316cd.js",
+    "static/js/2.860d775a.chunk.js",
+    "static/css/main.9d335ca6.chunk.css",
+    "static/js/main.1e2296e3.chunk.js"
+  ]
+}
