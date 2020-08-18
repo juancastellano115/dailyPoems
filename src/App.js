@@ -7,12 +7,17 @@ function App() {
   if (loading) return <Loader />;
   if (error) return <p>Error!</p>;
 
+ function LinesList(props) {
+  const data = props.data;
+  const textLines = data.lines.map((line,index)=><p key={index} >{line}</p>)
+  return textLines;
+}
   return (
     <div className="App">
       <header className="App-header">
         <h1>{data.title}</h1>
         <div className="textHolder">
-          <p>{data.lines}</p>
+          <LinesList data={data} />
         </div>
       </header>
     </div>
