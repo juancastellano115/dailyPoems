@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dailyPoems/static/css/main.9d335ca6.chunk.css",
-    "main.js": "/dailyPoems/static/js/main.8826c0ac.chunk.js",
-    "main.js.map": "/dailyPoems/static/js/main.8826c0ac.chunk.js.map",
+    "main.js": "/dailyPoems/static/js/main.caf8e849.chunk.js",
+    "main.js.map": "/dailyPoems/static/js/main.caf8e849.chunk.js.map",
     "runtime-main.js": "/dailyPoems/static/js/runtime-main.e9becd32.js",
     "runtime-main.js.map": "/dailyPoems/static/js/runtime-main.e9becd32.js.map",
     "static/js/2.860d775a.chunk.js": "/dailyPoems/static/js/2.860d775a.chunk.js",
     "static/js/2.860d775a.chunk.js.map": "/dailyPoems/static/js/2.860d775a.chunk.js.map",
     "index.html": "/dailyPoems/index.html",
-    "precache-manifest.988b16c011fe9525e89f1823cf9bc6a8.js": "/dailyPoems/precache-manifest.988b16c011fe9525e89f1823cf9bc6a8.js",
+    "precache-manifest.227072b7270d69d2b3a547704cef8bf1.js": "/dailyPoems/precache-manifest.227072b7270d69d2b3a547704cef8bf1.js",
     "service-worker.js": "/dailyPoems/service-worker.js",
     "static/css/main.9d335ca6.chunk.css.map": "/dailyPoems/static/css/main.9d335ca6.chunk.css.map",
     "static/js/2.860d775a.chunk.js.LICENSE.txt": "/dailyPoems/static/js/2.860d775a.chunk.js.LICENSE.txt"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e9becd32.js",
     "static/js/2.860d775a.chunk.js",
     "static/css/main.9d335ca6.chunk.css",
-    "static/js/main.8826c0ac.chunk.js"
+    "static/js/main.caf8e849.chunk.js"
   ]
 }

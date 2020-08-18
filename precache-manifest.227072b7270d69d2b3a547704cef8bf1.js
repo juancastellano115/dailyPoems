@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "931ef60d9e371051525e60510cc42145",
+    "revision": "20c9f880d4bf9946a3e86a99ff58a5e6",
     "url": "/dailyPoems/index.html"
   },
   {
-    "revision": "5bd4590fc3e363223268",
+    "revision": "b4cf31075f55850a1d87",
     "url": "/dailyPoems/static/css/main.9d335ca6.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dailyPoems/static/js/2.860d775a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "5bd4590fc3e363223268",
-    "url": "/dailyPoems/static/js/main.8826c0ac.chunk.js"
+    "revision": "b4cf31075f55850a1d87",
+    "url": "/dailyPoems/static/js/main.caf8e849.chunk.js"
   },
   {
     "revision": "c0a26af28ee5dfc6b8f7",
